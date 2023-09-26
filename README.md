@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshallvd&label=Profile%20views&color=0e75b6&style=flat" alt="marshallvd" /> </p>
 
+Hello Universe! My name is Made Marshall Vira Deva, commonly call Marshall, I'm from Denpasar Bali. I had an interest into Databases and Machine Learning.
+
 - 🔭 I’m currently studied on **Udayana University**
 
 - 🌱 I’m currently learning **Machine learning and Data Science**
